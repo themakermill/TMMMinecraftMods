@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/tbaggs/Documents/Projects/forge/eclipse/.metadata/.plugins/org.eclipse.jdt.core
+1914611569.index

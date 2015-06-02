@@ -7,9 +7,11 @@
 <fullyQualifiedTypeName name="net.minecraft.entity.item.EntityMinecart"/>
 <fullyQualifiedTypeName name="net.minecraftforge.event.entity.living.LivingHurtEvent"/>
 <fullyQualifiedTypeName name="net.minecraft.util.DamageSource"/>
-<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
-<fullyQualifiedTypeName name="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
 <fullyQualifiedTypeName name="net.minecraftforge.event.world.BlockEvent.BreakEvent"/>
 <fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.entity.EntityJoinWorldEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.item.EntityTNTPrimed"/>
+<fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
 </qualifiedTypeNameHistroy>
